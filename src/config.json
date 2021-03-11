@@ -1,0 +1,9 @@
+{
+  "BooksAPI": {
+    "url": "https://openlibrary.org/isbn/"
+  },
+  "BackEndApi":
+  {
+    "url": "http://localhost:3010/interviews"
+  }
+}
